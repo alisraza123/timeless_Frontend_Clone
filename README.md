@@ -1,6 +1,6 @@
 # **Timeless Website**
 
-[Live Demo]((https://fancy-timeless.netlify.app/))
+[Live Demo](https://fancy-timeless.netlify.app/)
 
 ---
 
@@ -9,7 +9,7 @@
 **Timeless** is a visually rich, fully responsive homepage clone built using **React**, **Vite**, and **Tailwind CSS**.
 This project focuses on creating smooth, interactive animations using **GSAP**, incorporating modern **React Icons**, and following best practices for a responsive design.
 
-The homepage is cloned from the original [Timeless Website](https://fancy-timeless.netlify.app/)) with animations and interactive elements implemented to enhance the user experience.
+The homepage is cloned from the original [Timeless Website](https://timeless.framer.media/?via=hxmzaehsan&utm_source=framer)) with animations and interactive elements implemented to enhance the user experience.
 
 ---
 
@@ -91,5 +91,5 @@ This project is for **learning and portfolio purposes**. All rights belong to th
 ## **Author**
 
 **Hassan Raza**
-Email: [hassanraza@example.com](alisraza123@gmail.com)
-GitHub: [alisraza123](https://github.com/alisraza123)
+Email: (alisraza123@gmail.com)
+GitHub: (https://github.com/alisraza123)
