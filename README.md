@@ -26,8 +26,6 @@ The homepage is cloned from the original [Timeless Website](https://timeless.fra
 
 ## **Screenshots**
 
-> Replace with actual screenshots of your project
-
 ![Screenshot 1](screenshots/screenshot.png)
 
 
@@ -90,6 +88,6 @@ This project is for **learning and portfolio purposes**. All rights belong to th
 
 ## **Author**
 
-**Hassan Raza**
+**Ali Raza**
 Email: (alisraza123@gmail.com)
 GitHub: (https://github.com/alisraza123)
