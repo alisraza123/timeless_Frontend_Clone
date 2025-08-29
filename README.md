@@ -89,5 +89,5 @@ This project is for **learning and portfolio purposes**. All rights belong to th
 ## **Author**
 
 **Ali Raza**
-Email: (alisraza123@gmail.com)
-GitHub: (https://github.com/alisraza123)
+* **Email:** (alisraza123@gmail.com)
+* **GitHub:** (https://github.com/alisraza123)
